@@ -1,32 +1,54 @@
-## Hi, I'm Parks RPK! 👋
-🎓 Binghamton University, Class of 2026
-Major: Computer Science
-GPA: 3.82 / 4.00
+## Hi, I'm Parks RPK! 👋  
 
-🌟 Experience & Projects
-Professional Experience
-🧑‍🏫 Course Assistant, Binghamton University
-Helped students debug code and design algorithms for Data Structures and Algorithms. Created problem sets, supported lab sessions, and collaborated with professors for class progress.
+🎓 **Binghamton University, Class of 2026**  
+📍 Binghamton, NY  
+💻 Computer Science Major | GPA: 3.78/4.00  
 
-Projects
-🏡 B-Roommates Portal
-A Tinder-style web app matching students for housing. Led frontend development with React, designed responsive UI, and integrated backend services with Express, Node.js, and MongoDB.
-🌟 ACM Club Project @ Binghamton University
+---
 
-🍽 Food Prediction ML Model
-Built a machine learning model (XGBoost, Decision Trees) to predict daily food requirements for a school food park, achieving 87.3% accuracy.
+## 🌟 Experience & Projects
 
-🍕 Pizzeria Business Dashboard
-Designed an SQL database and dashboard to manage orders, stock, and employee details for a pizzeria. Automated stock monitoring, order tracking, and margin calculations using Google Data Studio.
+### 🧑‍🏫 Course Assistant, Binghamton University  
+- Assist students with debugging and logic in **Data Structures & Algorithms**.  
+- Design problems, write test cases, and support lab sessions.  
 
-🌱 Leadership & Involvement
-🌐 ACM Member — Weekly events on data structures and new tech; developing the housing portal project.
-🏃‍♂️ BURC Running Club — Cross-country and marathon runner; competing in regionals and nationals.
-🌎 Google Developer Student Club (GDSC) — Core member and event organizer for 1,500+ participants hackathon.
-🎙 Toastmasters Club (VPP) — Led team progression, managed events, and helped members with public speaking goals.
+### 🏡 B-Roommates Portal  
+- Led frontend development using **React**, creating a Tinder-style housing platform for Binghamton students.  
+- Integrated backend services (**Node.js**, **Express.js**, **MongoDB**) for user matching.  
+- Dockerized the app for deployment and used **Git** for version control.  
+🌟 *ACM Club Project @ Binghamton University*  
 
-🧰 Skills & Tools
-Languages: C++, C, Java, Python, JavaScript, SQL
-Tools & Frameworks: React, Express, Node.js, MongoDB, Docker, Linux, TensorFlow, XGBoost
-Certifications: C, C++, and Python by IIT Bombay
+### 🍽 Food Prediction ML Model  
+- Built a model with **XGBoost** and **Decision Trees** to predict daily food demand in a school setting.  
+- Achieved **87.3% accuracy** across 100 days of testing.  
+
+### 🍕 Pizzeria Business Dashboard  
+- Designed an **SQL** database and dashboard for real-time order and stock tracking.  
+- Automated margin calculations and visualized data with **Google Data Studio**.
+
+---
+
+## 🌱 Leadership & Involvement
+
+- 🌐 **ACM Member** – Contributing to a roomie matching portal and hosting weekly tech sessions.  
+- 🏃‍♂️ **BURC Running Club** – Cross-country & marathon runner, competing at regionals and nationals.  
+- 🧠 **Google Developer Student Club** – Core member; organized a 72-hour hackathon with 1,500+ participants.  
+- 🎙 **Toastmasters (VPP)** – Led team progress tracking and managed weekly meetings.  
+
+---
+
+## 🧰 Skills & Tools
+
+**Languages**: C++, C, Java, Python, JavaScript, SQL  
+**Frameworks/Tools**: React, Express.js, Node.js, MongoDB, Docker, TensorFlow, XGBoost  
+**Certifications**: C, C++, and Python by IIT Bombay  
+
+---
+
+## 🔗 Connect with Me
+
+- [GitHub](https://github.com/parks3131)  
+- [LinkedIn](https://linkedin.com/in/parks-rpk)  
+
+---
 
