@@ -48,7 +48,8 @@
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/parks3131)  
-- [LinkedIn](https://linkedin.com/in/parks-rpk)  
+- [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350/)
+ 
 
 ---
 
