@@ -2,7 +2,7 @@
 
 🎓 **Binghamton University, Class of 2026**  
 📍 Binghamton, NY  
-💻 Computer Science Major | GPA: 3.78/4.00  
+💻 Computer Science Major | GPA: 3.82/4.00  
 
 ---
 
