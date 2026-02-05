@@ -7,9 +7,9 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-I'm a Computer Science student who loves building real-world systems — from full-stack platforms used by real users to machine learning pipelines and large-scale data analysis. I enjoy working across frontend, backend, AI, and cloud tools to turn ideas into scalable, impactful products.
+I'm a Computer Science student who loves building real-world systems — from full-stack platforms used by real users to machine learning pipelines and large-scale data analysis. I enjoy working across frontend, backend, AI, and cloud tools to turn ideas into scalable, impactful products. I am also a runner, and a Boston Marathon Qualifier yay!
 
 ---
 
