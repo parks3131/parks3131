@@ -1,55 +1,118 @@
-## Hi, I'm Parks RPK! 👋  
+# Hi, I'm Parks RPK 👋  
 
-🎓 **Binghamton University, Class of 2026**  
+🎓 Bachelor of Science in Computer Science — Binghamton University (Class of 2026)  
 📍 Binghamton, NY  
-💻 Computer Science Major | GPA: 3.84/4.00  
+📊 GPA: 3.74 / 4.00 | Dean’s List  
+💡 Interested in Software Engineering, Machine Learning, Data Engineering, AI Systems, and Full-Stack Development  
 
 ---
 
-## 🌟 Experience & Projects
+## 🚀 About Me  
 
-### 🧑‍🏫 Course Assistant, Binghamton University  
-- Assist students with debugging and logic in **Data Structures & Algorithms**.  
-- Design problems, write test cases, and support lab sessions.  
-
-### 🏡 B-Roommates Portal  
-- Led frontend development using **React**, creating a Tinder-style housing platform for Binghamton students.  
-- Integrated backend services (**Node.js**, **Express.js**, **MongoDB**) for user matching.  
-- Dockerized the app for deployment and used **Git** for version control.  
-🌟 *ACM Club Project @ Binghamton University*  
-
-### 🍽 Food Prediction ML Model  
-- Built a model with **XGBoost** and **Decision Trees** to predict daily food demand in a school setting.  
-- Achieved **87.3% accuracy** across 100 days of testing.  
-
-### 🍕 Pizzeria Business Dashboard  
-- Designed an **SQL** database and dashboard for real-time order and stock tracking.  
-- Automated margin calculations and visualized data with **Google Data Studio**.
+I'm a Computer Science student who loves building real-world systems — from full-stack platforms used by real users to machine learning pipelines and large-scale data analysis. I enjoy working across frontend, backend, AI, and cloud tools to turn ideas into scalable, impactful products.
 
 ---
 
-## 🌱 Leadership & Involvement
+## 🧑‍💻 Professional Experience  
 
-- 🌐 **ACM Member** – Contributing to a roomie matching portal and hosting weekly tech sessions.  
-- 🏃‍♂️ **BURC Running Club** – Cross-country & marathon runner, competing at regionals and nationals.  
-- 🧠 **Google Developer Student Club** – Core member; organized a 72-hour hackathon with 1,500+ participants.  
-- 🎙 **Toastmasters (VPP)** – Led team progress tracking and managed weekly meetings.  
+### Machine Learning & Computer Vision Intern — Elevated Lab  
+**May 2025 – July 2025**  
+- Built real-time object detection pipelines using OpenCV and TensorFlow/Keras for healthcare and security use cases  
+- Implemented CNN models (MobileNetV2) for face mask detection with high accuracy through preprocessing and augmentation  
+- Extended systems to detect restricted objects and security threats in surveillance video streams  
+- Achieved 92% precision and 90% recall across production-style evaluation  
 
----
-
-## 🧰 Skills & Tools
-
-**Languages**: C++, C, Java, Python, JavaScript, SQL  
-**Frameworks/Tools**: React, Express.js, Node.js, MongoDB, Docker, TensorFlow, XGBoost  
-**Certifications**: C, C++, and Python by IIT Bombay  
-
----
-
-## 🔗 Connect with Me
-
-- [GitHub](https://github.com/parks3131)  
-- [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350/)
- 
+### Web Developer Intern — SUNY Research Foundation  
+**Oct 2025 – Jan 2026**  
+- Designed and developed production WordPress websites for research and museum collaboration projects  
+- Customized themes, structured content, improved UX, and collaborated with stakeholders in agile workflows  
 
 ---
 
+## 📌 Featured Projects  
+
+### 🏡 B-Roommates Housing Portal (ACM Club Project)  
+A Tinder-style roommate matching platform built for Binghamton University students.
+
+- Developed responsive frontend using React with modern UI components  
+- Implemented authentication, profile creation, swipe-style matching, and preference-based filtering  
+- Integrated REST APIs using Node.js and Express with MongoDB for user data and messaging  
+- Conducted UX testing with real users to improve engagement and usability  
+- Dockerized the application for deployment and team collaboration  
+
+**Tech:** React, Node.js, Express, MongoDB, HTML, CSS, REST APIs, Docker, Git  
+
+---
+
+### 📊 NYC CitiBike Data Analysis  
+
+A large-scale data analytics project exploring urban mobility patterns.
+
+- Cleaned and processed millions of ride records using Pandas, NumPy, and SQL  
+- Analyzed peak demand, seasonal trends, and station utilization  
+- Built interactive dashboards using Tableau and Matplotlib  
+- Generated insights for optimizing station placement and rush-hour balancing  
+
+**Tech:** Python, Pandas, NumPy, SQL, Tableau, Matplotlib  
+
+---
+
+### 🤖 AI Face Mask & Threat Detection  
+
+Real-time computer vision systems for safety and security.
+
+- Built CNN pipelines using TensorFlow/Keras and OpenCV  
+- Implemented face mask detection and object threat classification  
+- Optimized inference speed for real-time video processing  
+- Evaluated performance using precision, recall, and accuracy metrics  
+
+**Tech:** Python, TensorFlow, Keras, OpenCV, CNNs  
+
+---
+
+### ⚛ Quantum Computing Research  
+
+Research focused on improving efficiency and reliability of quantum algorithms.
+
+- Implemented quantum circuits using Qiskit  
+- Studied quantum error correction and secure computation techniques  
+- Conducting experiments and preparing work for publication  
+
+**Tech:** Python, Qiskit, Quantum Algorithms  
+
+---
+
+## 🧠 Skills & Tools  
+
+### Programming Languages  
+Python, C++, C, Java, JavaScript, SQL, Bash, Linux  
+
+### AI & Data Science  
+Scikit-learn, TensorFlow, OpenCV, NumPy, Pandas, Hugging Face, LangChain, RAG, Microsoft Excel  
+
+### Web Development  
+MERN Stack (MongoDB, Express, React, Node.js), Flask, REST APIs, HTML, CSS, WordPress, Docker  
+
+### Tools & Platforms  
+Git, GitHub, Jupyter Notebook, VS Code, Cursor, Navicat, PostgreSQL, Azure, Databricks, Jira  
+
+---
+
+## 🌱 Leadership & Involvement  
+
+- Course Assistant — Data Structures & Algorithms (problem design, debugging support, labs)  
+- ACM Member — technical events and collaborative coding projects  
+- Google Developer Student Club (Core Member) — organized hackathons with 1500+ participants  
+- Toastmasters VPP — leadership development and mentoring  
+
+---
+
+## 📫 Connect With Me  
+
+GitHub: https://github.com/parks3131  
+LinkedIn: https://www.linkedin.com/in/parks-rpk-8479a3350  
+Email: prpk@binghamton.edu  
+
+---
+
+⭐ Building scalable systems | Shipping real products | Learning every day
