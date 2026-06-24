@@ -21,18 +21,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🌌 Interstellar — Developer Intelligence Platform | *Jan 2026 – Present (YCombinator)*
-> Building a unified intelligence layer to automatically detect and eliminate "context drift" between what teams scope and what developers build.
-
-- **Dual-Context Engine:** Designed a reasoning architecture that holds two simultaneous context pictures—Project Intent (Jira, Slack, Figma, Docs) vs. Codebase Reality (GitHub PRs, ASTs)—and systematically compares them to surface technical misalignments mid-sprint.
-- **Artifact-Linked Guardrails:** Implemented an automated flagging layer that generates context-aware, hyper-targeted alerts (e.g., catching a PR modifying database modules outside the approved ticket spec boundary) rather than generic, noisy notification channels.
-- **Agent Infrastructure:** Engineered a high-fidelity specification generation module that synthesizes messy team discussions and asset requirements into deterministic, agent-executable files complete with build rationale, acceptance criteria, and explicit codebase constraints.
-- **Hybrid Ingress Architecture:** Architected a versatile dual-deployment system supporting vendor-backed integration pathways (Glean/Onyx via Model Context Protocol) alongside a full-stack, standalone ingestion pipeline driven by a custom semantic graph context engine.
-
----
-
 ## 📜 Certifications
 - **OpenCV** – University at Buffalo
 - **Google Data Analytics Professional Certificate** – Coursera
