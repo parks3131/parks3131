@@ -1,5 +1,5 @@
 # 👨‍💻 Parksunnath RPK
-📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 prpk@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | [GitHub](https://github.com/parks3131)
+📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 rpkparks@gmail.com | [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | [GitHub](https://github.com/parks3131)
 
 ---
 
@@ -41,7 +41,7 @@ GPA: 3.80 / 4.00 | Dean's List
 
 ## 🚀 Projects
 
-**🌌 Interstellar — Developer Intelligence Platform** | Jan 2026 – Present
+**🌌 Interstellar — Developer Intelligence Platform** | Jan 2026 – Present (YCombinator)
 - Building a unified intelligence layer ingesting context from **Jira, Slack, GitHub, Figma & Docs** to detect drift between what was scoped and what's being built
 - Designed a reasoning architecture that holds two simultaneous context pictures (intent vs. reality) and compares them to surface misalignments before sprint completion
 - Implemented a flagging layer generating scoped, artifact-linked alerts (e.g., PR touching modules outside spec boundary) — not generic notifications
