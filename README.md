@@ -39,7 +39,7 @@ GPA: 3.80 / 4.00 | Dean's List
 
 ---
 
-#### 🌌 Interstellar | *Developer Intelligence Platform (YC)*
+#### 🌌 Interstellar | *Developer Intelligence Platform (Y Combinator)*
 Building a unified intelligence layer to detect drift between what was scoped and what is actually being built.
 
 | Focus Area | Engineering Impact |
