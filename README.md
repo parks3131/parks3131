@@ -39,15 +39,15 @@ GPA: 3.80 / 4.00 | Dean's List
 
 ---
 
-## 🚀 Projects
+#### 🌌 Interstellar | *Developer Intelligence Platform (YC)*
+Building a unified intelligence layer to detect drift between what was scoped and what is actually being built.
 
-**🌌 Interstellar — Developer Intelligence Platform** | Jan 2026 – Present (YCombinator)
-- Building a unified intelligence layer ingesting context from **Jira, Slack, GitHub, Figma & Docs** to detect drift between what was scoped and what's being built
-- Designed a reasoning architecture that holds two simultaneous context pictures (intent vs. reality) and compares them to surface misalignments before sprint completion
-- Implemented a flagging layer generating scoped, artifact-linked alerts (e.g., PR touching modules outside spec boundary) — not generic notifications
-- Engineered a spec generation module producing agent-executable files with build rationale, codebase context, acceptance criteria & constraints
-- Architected dual deployment: vendor-backed (Glean/Onyx via MCP) and full-stack (direct connectors + semantic graph context engine)
-
+| Focus Area | Engineering Impact |
+| :--- | :--- |
+| **The Core Engine** | Holds simultaneous context pictures (Intent vs. Reality) across Jira, Slack, Figma, & GitHub to surface misalignments in real-time. |
+| **Contextual Guardrails** | Replaced noisy alerts with scoped, artifact-linked notifications when code execution strays from the spec boundary. |
+| **AI Agent Ingestion** | Synthesizes codebase context and constraints into pristine, agent-executable specification files. |
+| **System Architecture** | Built for both vendor-backed MCP deployment (Glean/Onyx) and full-stack semantic graph connectors. |
 `Python · LLM Reasoning · MCP · Semantic Graph · Jira/Slack/GitHub/Figma`
 
 ---
