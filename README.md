@@ -29,13 +29,13 @@
 
 ## 💼 Professional Experience
 
- Acarin Inc. — Software Engineer** | Baltimore, MD | Jan 2026 – Present
+ Acarin Inc. — Software Engineer | Baltimore, MD | Jan 2026 – Present
 - Built k6 + Chromium load testing suite simulating **20,000 concurrent users** through Keycloak SSO & AI chat flows for Mission Mind HR Worker, shipped to the **US Army**
 - Designed Docker-containerized **Grafana + InfluxDB** pipeline surfacing p95/p99 latency, error rates & throughput on a live dashboard used by the 8-person DevOps team
 - Engineered per-user logging pipelines isolating failures to exact workflow stages (auth → bot response → UI render), cutting debug time significantly
 - Analyzed failure patterns (missing permissions, bot timeouts, render delays) and documented findings that drove backend fixes
 
- Acarin Inc. — Software Engineer Intern** | Baltimore, MD | Oct 2025 – Jan 2026
+ Acarin Inc. — Software Engineer Intern | Baltimore, MD | Oct 2025 – Jan 2026
 - Architected Playwright + Cucumber + TypeScript E2E framework (3-layer: page objects → step definitions → Gherkin), refactoring a monolith into 21 files across 8 feature areas
 - Built shared auth step layer eliminating duplicated login glue code; configured Cucumber glob loader to auto-discover new `*.steps.ts` files
 - Authored custom TypeScript HTML reporter generating per-scenario reports with screenshots & video on failure
