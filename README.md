@@ -1,22 +1,42 @@
-# 👨‍💻 Parksunnath RPK
-📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 rpkparks@gmail.com | [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | [GitHub](https://github.com/parks3131)
+# 👨‍💻 Parks RPK
+📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 rpkparks@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | 🐙 [GitHub](https://github.com/parks3131)
 
 ---
 
 ## 🎓 Education
-**Binghamton University, SUNY** — B.S. Computer Science | May 2026
-GPA: 3.80 / 4.00 | Dean's List
-*DSA, ML, OS, Computer Architecture, DB Systems, Networks, Cloud Computing, AI, NLP*
+**Binghamton University, SUNY** — *B.S. in Computer Science* | May 2026
+- **GPA:** 3.80 / 4.00 | Dean's List
+- **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Operating Systems, Database Systems, Computer Architecture, Computer Networks, Cloud Computing, Artificial Intelligence, Natural Language Processing (NLP)
 
 ---
 
 ## 🛠️ Technical Skills
-🐍 **Languages:** Python, C++, C, Java, JavaScript, TypeScript, SQL, Bash, Linux, ROS
-🤖 **AI & Data:** Scikit-learn, NumPy, Pandas, OpenCV, Hugging Face, LangChain, RAG, MCP
-🌐 **Web & Testing:** MERN Stack, Flask, Docker, REST APIs, Playwright, Cucumber, k6, Grafana, InfluxDB, CI/CD
-🔧 **Tools:** Jira, Git, PostgreSQL, Azure, Databricks, Jupyter, VS Code, Cursor
-📜 **Certs:** Python/C/C++ (IIT Bombay) | OpenCV (U at Buffalo) | Google Data Analytics
 
+- **Languages:** Python, TypeScript, JavaScript, C++, C, Java, SQL, Bash, HTML/CSS
+- **AI, Agentic Systems & Data:** LangChain, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), Semantic Graphs / Knowledge Graphs, Hugging Face, Scikit-learn, OpenCV, NumPy, Pandas
+- **Web & Frameworks:** Node.js, Express.js, React, MongoDB (MERN Stack), Next.js, Flask, REST APIs, JSON Schema
+- **DevOps, Cloud & Infrastructure:** Docker, CI/CD Pipelines, Linux/Unix, Azure, Databricks, InfluxDB, ROS (Robot Operating System)
+- **Testing & Observability:** Playwright, Cucumber, k6 (Load Testing), Grafana, Jupyter Notebooks
+- **Collaboration & Developer Tools:** Jira API, GitHub Enterprise, Git, PostgreSQL, Cursor, VS Code
+
+---
+
+## 🚀 Featured Project
+
+### 🌌 Interstellar — Developer Intelligence Platform | *Jan 2026 – Present (YCombinator)*
+> Building a unified intelligence layer to automatically detect and eliminate "context drift" between what teams scope and what developers build.
+
+- **Dual-Context Engine:** Designed a reasoning architecture that holds two simultaneous context pictures—Project Intent (Jira, Slack, Figma, Docs) vs. Codebase Reality (GitHub PRs, ASTs)—and systematically compares them to surface technical misalignments mid-sprint.
+- **Artifact-Linked Guardrails:** Implemented an automated flagging layer that generates context-aware, hyper-targeted alerts (e.g., catching a PR modifying database modules outside the approved ticket spec boundary) rather than generic, noisy notification channels.
+- **Agent Infrastructure:** Engineered a high-fidelity specification generation module that synthesizes messy team discussions and asset requirements into deterministic, agent-executable files complete with build rationale, acceptance criteria, and explicit codebase constraints.
+- **Hybrid Ingress Architecture:** Architected a versatile dual-deployment system supporting vendor-backed integration pathways (Glean/Onyx via Model Context Protocol) alongside a full-stack, standalone ingestion pipeline driven by a custom semantic graph context engine.
+
+---
+
+## 📜 Certifications
+- **OpenCV** – University at Buffalo
+- **Google Data Analytics Professional Certificate** – Coursera
+- **Python, C, & C++ Core Programming** – IIT Bombay
 ---
 
 ## 💼 Professional Experience
