@@ -1,5 +1,5 @@
 # 👨‍💻 Parksunnath RPK
-📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 prpk@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | [GitHub]([https://github.com/parks3131])
+📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 prpk@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | [GitHub](https://github.com/parks3131)
 
 ---
 
