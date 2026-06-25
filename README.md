@@ -15,7 +15,7 @@
 - **Languages:** Python, TypeScript, JavaScript, C++, C, Java, SQL, Bash, HTML/CSS
 - **AI, Agentic Systems & Data:** LangChain, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), Semantic Graphs / Knowledge Graphs, Hugging Face, Scikit-learn, OpenCV, NumPy, Pandas
 - **Web & Frameworks:** Node.js, Express.js, React, MongoDB (MERN Stack), Next.js, Flask, REST APIs, JSON Schema
-- **DevOps, Cloud & Infrastructure:** Docker, CI/CD Pipelines, Linux/Unix, Azure, Databricks, InfluxDB, ROS (Robot Operating System)
+- **DevOps, Cloud & Infrastructure:** Docker, CI/CD Pipelines, Linux/Unix, Azure, Databricks, InfluxDB, Kafka, AWS, Kubernetes, ROS (Robot Operating System)
 - **Testing & Observability:** Playwright, Cucumber, k6 (Load Testing), Grafana, Jupyter Notebooks
 - **Collaboration & Developer Tools:** Jira API, GitHub Enterprise, Git, PostgreSQL, Cursor, VS Code
 
