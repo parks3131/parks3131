@@ -79,12 +79,14 @@ Building a unified intelligence layer to detect drift between what was scoped an
 
 ---
 
-**🤖 AI Candidate-to-Job Matching Platform** | Mar – May 2026
-- Full-stack resume parser + ranker using FastAPI, **pgvector**, and OpenAI embeddings; ranked 100+ candidates via cosine similarity on 1536-dim embeddings
-- Deployed on **AWS EC2 + RDS** with Docker + GitHub Actions CI/CD (lint, pytest, image build on every push)
-- Hit **sub-500ms match latency** via IVFFlat indexing + Redis caching on frequent job-description queries
 
-`FastAPI · PostgreSQL · pgvector · OpenAI · Docker · AWS · Redis`
+**💬 Parks Portfolio AI Chat — RAG-Powered Assistant with Guardrails** | Jul 2026
+- Replaced a static system prompt with a retrieval pipeline: embedded a content corpus using OpenAI `text-embedding-3-small` into **Neon Postgres (pgvector, HNSW cosine index)**, retrieving top-k chunks per query to ground every reply
+- Built an idempotent reindex script (`scripts/reindex.ts`) that embeds, upserts by ID, and prunes stale vectors — keeping the vector store reproducible from a single JSON corpus file
+- Implemented input/output guardrails (regex-based jailbreak & prompt-leak detection, message-length caps) and **Upstash Redis** sliding-window rate limiting to protect the public chat API from abuse and prompt injection
+- Kept the LLM provider swappable via **OpenRouter**'s OpenAI-compatible API, isolating retrieval, guardrail, and generation logic into independent modules
+
+`Next.js · TypeScript · OpenAI Embeddings · Neon (pgvector) · Upstash Redis · OpenRouter`
 
 ---
 
