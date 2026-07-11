@@ -5,7 +5,7 @@
 
 ## 🧭 Summary
 
-QA & Evals Intern of experience building and testing AI-powered products end-to-end. At Acarin Inc, built a real-time observability pipeline (Docker, InfluxDB, Grafana) that isolated performance bottlenecks across auth, LLM, and rendering layers for an AI HR platform under 20,000 concurrent users, and replaced manual regression testing with a Playwright/Cucumber automation suite. Independently designed and shipped full-stack AI projects, a RAG-based chatbot with prompt-injection guardrails, a developer intelligence platform detecting drift between planned and shipped code, and a fully automated AI news pipeline, using modern AI dev tools (Claude Code, Cursor, Langchain, Agentic Executor and Curator etc… ) throughout. Strong CS fundamentals with a consistent track record of owning projects from idea to production, not just closing tickets.
+QA & Evals Engineer of experience building and testing AI-powered products end-to-end. At Acarin Inc, built a real-time observability pipeline (Docker, InfluxDB, Grafana) that isolated performance bottlenecks across auth, LLM, and rendering layers for an AI HR platform under 20,000 concurrent users, and replaced manual regression testing with a Playwright/Cucumber automation suite. Independently designed and shipped full-stack AI projects, a RAG-based chatbot with prompt-injection guardrails, a developer intelligence platform detecting drift between planned and shipped code, and a fully automated AI news pipeline, using modern AI dev tools (Claude Code, Cursor, Langchain, Agentic Executor and Curator etc… ) throughout. Strong CS fundamentals with a consistent track record of owning projects from idea to production, not just closing tickets.
 
 ---
 
