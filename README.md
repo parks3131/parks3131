@@ -31,6 +31,7 @@ QA & Evals Engineer of experience building and testing AI-powered products end-t
 - **OpenCV** – University at Buffalo
 - **Google Data Analytics Professional Certificate** – Coursera
 - **Python, C, & C++ Core Programming** – IIT Bombay
+- **Claude** - Claude 101, Claude Code 101, Building with the Claude API 
 
 ---
 
