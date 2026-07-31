@@ -71,7 +71,7 @@ Owned quality, evals, and observability for **Mission Mind HR Worker**, an AI HR
 
 ## 🚀 Projects
 
-### 🏃 ClubChat &nbsp;|&nbsp; *Team Coordination App for Sports Clubs · Shipped & in daily use*
+### 🏃 ClubChat &nbsp;|&nbsp; *Team Coordination App for University Clubs · Shipped & in daily use*
 
 A full-stack mobile app that **100+ member clubs now use to run everything they used to juggle in a group chat**: workout plans, race sign-ups, rosters, and a shared calendar.
 
