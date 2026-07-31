@@ -45,7 +45,7 @@ Software Engineer focused on QA, evals, and AI-powered products built and shippe
 
 ## 📜 Certifications
 
-- **Claude** &nbsp;·&nbsp; Claude 101, Claude Code 101, Building with the Claude API
+- **Claude** &nbsp;·&nbsp; Claude 101, Claude Code 101, Building with the Claude API, Advanced Model Context Protocol
 - **OpenCV** &nbsp;·&nbsp; University at Buffalo
 - **Google Data Analytics Professional Certificate** &nbsp;·&nbsp; Coursera
 - **Python, C & C++ Core Programming** &nbsp;·&nbsp; IIT Bombay
