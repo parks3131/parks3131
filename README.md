@@ -1,6 +1,6 @@
 # 👨‍💻 Parks RPK
 
-**Software Engineer · QA & Evals · AI-Powered Products**
+**Software, AI · QA & Evals · AI-Powered Products**
 
 📍 Binghamton, NY &nbsp;|&nbsp; 📞 +1 (607) 343 8233 &nbsp;|&nbsp; 📧 rpkparks@gmail.com &nbsp;|&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/parks3131) &nbsp;|&nbsp; 🔗 [Portfolio](https://www.parkstechusa.com/)
 
