@@ -1,17 +1,33 @@
 # 👨‍💻 Parks RPK
-📍 Binghamton, NY | 📞 +1 (607) 343 8233 | 📧 rpkparks@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) | 🐙 [GitHub](https://github.com/parks3131) | [Portfolio](https://www.parkstechusa.com/)
+
+**Software Engineer · QA & Evals · AI-Powered Products**
+
+📍 Binghamton, NY &nbsp;|&nbsp; 📞 +1 (607) 343 8233 &nbsp;|&nbsp; 📧 rpkparks@gmail.com &nbsp;|&nbsp; 🌐 [LinkedIn](https://www.linkedin.com/in/parks-rpk-8479a3350) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/parks3131) &nbsp;|&nbsp; 🔗 [Portfolio](https://www.parkstechusa.com/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
 ## 🧭 Summary
 
-QA & Evals Engineer of experience building and testing AI-powered products end-to-end. At Acarin Inc, built a real-time observability pipeline (Docker, InfluxDB, Grafana) that isolated performance bottlenecks across auth, LLM, and rendering layers for an AI HR platform under 20,000 concurrent users, and replaced manual regression testing with a Playwright/Cucumber automation suite. Independently designed and shipped full-stack AI projects, a RAG-based chatbot with prompt-injection guardrails, a developer intelligence platform detecting drift between planned and shipped code, and a fully automated AI news pipeline, using modern AI dev tools (Claude Code, Cursor, Langchain, Agentic Executor and Curator etc… ) throughout. Strong CS fundamentals with a consistent track record of owning projects from idea to production, not just closing tickets.
+Software Engineer focused on QA, evals, and AI-powered products built and shipped end to end. At **Acarin Inc**, built a real-time observability and load-testing pipeline (k6, Docker, InfluxDB, Grafana) simulating **20,000 concurrent users** and isolating bottlenecks across auth, LLM, and rendering layers for an AI HR platform **shipped to the US Army**, and replaced manual regression testing with a Playwright/Cucumber automation suite. Independently designed and shipped **full-stack products in real use**: **ClubChat**, a team-coordination app now run by **100+ member university clubs**; a RAG chatbot with prompt-injection guardrails; **Interstellar**, a developer-intelligence platform detecting drift between planned and shipped code; and a fully autonomous AI news pipeline. Works fluently with modern AI dev tooling (Claude Code, Cursor, LangChain, MCP), with strong CS fundamentals and a consistent record of **owning projects from idea to production, not just closing tickets**.
 
 ---
 
 ## 🎓 Education
-**Binghamton University, SUNY** — *B.S. in Computer Science* | May 2026
-- **GPA:** 3.80 / 4.00 | Dean's List
+
+**Binghamton University, SUNY** &nbsp;|&nbsp; *B.S. in Computer Science* &nbsp;|&nbsp; May 2026
+
+- **GPA:** 3.80 / 4.00 &nbsp;·&nbsp; Dean's List
 - **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Operating Systems, Database Systems, Computer Architecture, Computer Networks, Cloud Computing, Artificial Intelligence, Natural Language Processing (NLP)
 
 ---
@@ -19,97 +35,122 @@ QA & Evals Engineer of experience building and testing AI-powered products end-t
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, TypeScript, JavaScript, C++, C, Java, SQL, Bash, HTML/CSS
-- **AI, Agentic Systems & Data:** LangChain, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), Semantic Graphs / Knowledge Graphs, Hugging Face, Scikit-learn, OpenCV, NumPy, Pandas
-- **Web & Frameworks:** Node.js, Express.js, React, MongoDB (MERN Stack), Next.js, FastAPI, Flask, REST APIs, JSON Schema
-- **DevOps, Cloud & Infrastructure:** Docker, CI/CD Pipelines, Linux/Unix, Azure, Databricks, InfluxDB, Kafka, AWS (EC2, RDS, DynamoDB, Aurora), Kubernetes, ROS (Robot Operating System)
-- **Testing & Observability:** Playwright, Cucumber, k6 (Load Testing), Grafana, Jupyter Notebooks
-- **Collaboration & Developer Tools:** Jira API, GitHub Enterprise, Git, PostgreSQL, Cursor, VS Code
+- **AI, Agentic Systems & Data:** LangChain, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG), AI Evals, Semantic / Knowledge Graphs, Hugging Face, Scikit-learn, OpenCV, NumPy, Pandas
+- **Web & Frameworks:** Node.js, Fastify, Express.js, React, React Native / Expo, Next.js, FastAPI, Flask, WebSockets, REST APIs, MongoDB (MERN), Drizzle, JSON Schema
+- **DevOps, Cloud & Infrastructure:** Docker, CI/CD Pipelines, GitHub Actions, Linux/Unix, AWS (EC2, RDS, DynamoDB, Aurora), Azure, Databricks, Kafka, Kubernetes, InfluxDB, Fly.io
+- **Testing & Observability:** Playwright, Cucumber, k6 (Load Testing), Testcontainers, Grafana, Jupyter Notebooks
+- **Collaboration & Developer Tools:** Jira API, GitHub Enterprise, Git, PostgreSQL, Cursor, Claude Code, VS Code
 
 ---
 
 ## 📜 Certifications
-- **OpenCV** – University at Buffalo
-- **Google Data Analytics Professional Certificate** – Coursera
-- **Python, C, & C++ Core Programming** – IIT Bombay
-- **Claude** - Claude 101, Claude Code 101, Building with the Claude API 
+
+- **Claude** &nbsp;·&nbsp; Claude 101, Claude Code 101, Building with the Claude API
+- **OpenCV** &nbsp;·&nbsp; University at Buffalo
+- **Google Data Analytics Professional Certificate** &nbsp;·&nbsp; Coursera
+- **Python, C & C++ Core Programming** &nbsp;·&nbsp; IIT Bombay
 
 ---
 
 ## 💼 Professional Experience
 
-**Acarin Inc. — Software Engineer** | Baltimore, MD | Mar 2026 – Present
-- Built k6 + Chromium load testing suite simulating **20,000 concurrent users** through Keycloak SSO & AI chat flows for Mission Mind HR Worker, shipped to the **US Army**
-- Designed Docker-containerized **Grafana + InfluxDB** pipeline surfacing p95/p99 latency, error rates & throughput on a live dashboard used by the 8-person DevOps team
-- Engineered per-user logging pipelines isolating failures to exact workflow stages (auth → bot response → UI render), cutting debug time significantly
-- Analyzed failure patterns (missing permissions, bot timeouts, render delays) and documented findings that drove backend fixes
+### Acarin Inc. &nbsp;|&nbsp; Software Engineer (QA & Evals) &nbsp;|&nbsp; Baltimore, MD &nbsp;|&nbsp; Jan 2025 – Present
 
-**Acarin Inc. — Software Engineer Intern** | Baltimore, MD | Jan 2025 – Ma 2026
-- Architected Playwright + Cucumber + TypeScript E2E framework (3-layer: page objects → step definitions → Gherkin), refactoring a monolith into 21 files across 8 feature areas
-- Built shared auth step layer eliminating duplicated login glue code; configured Cucumber glob loader to auto-discover new `*.steps.ts` files
-- Authored custom TypeScript HTML reporter generating per-scenario reports with screenshots & video on failure
-- Mapped UI tests 1:1 to k6 load-test workflows — same user journeys covered functionally and under load
+Owned quality, evals, and observability for **Mission Mind HR Worker**, an AI HR platform **shipped to the US Army**, and took it from manual testing to a fully automated, load-verified release pipeline.
 
-**🌐 SUNY Research Foundation — Back End Developer** | Binghamton, NY | Feb 2025 – Jun 2026
+- Built a **k6 + Chromium load-testing suite** simulating **20,000 concurrent users** through Keycloak SSO and multi-step AI chat flows, exposing LLM timeouts and permission gaps before they ever reached production.
+- Designed a **Docker-containerized Grafana + InfluxDB** observability pipeline surfacing p95/p99 latency, error rates, and throughput on a live dashboard used daily by an **8-person DevOps team**.
+- Engineered **per-user logging pipelines** that isolate failures to the exact workflow stage (auth → bot response → UI render), turning vague bug reports into precise, one-line fixes and cutting debug time dramatically.
+- Architected a **Playwright + Cucumber + TypeScript E2E framework** (3-layer: page objects → step definitions → Gherkin), refactoring a monolith into 21 files across 8 feature areas so non-technical QA can write tests in plain English.
+- **Integrated Playwright MCP with Claude Code** to auto-discover and patch broken UI selectors on a live browser, cutting new-workflow creation from days to hours.
+- Mapped every UI test **1:1 to a k6 load-test workflow**, so the same user journeys are verified both functionally and under load, and drove backend fixes off documented failure patterns.
 
-*Served as backend developer on a federally funded digital exhibit platform, designing and deploying RESTful APIs using Python and FastAPI with Pydantic-validated schemas, managing relational data in Amazon RDS (PostgreSQL) and document data in Amazon DynamoDB, building GitHub Actions CI/CD pipelines, and collaborating within a 5-person Agile team tracked in Jira to ship a nationally distributed platform now serving museum partners across the United States.*
-
-- Developed backend services using Python and FastAPI, building RESTful API endpoints with Pydantic-validated schemas to support structured research data ingestion and retrieval workflows
-- Managed relational data in Amazon RDS (PostgreSQL), designing normalized schemas and writing optimized SQL queries for content management and multi-stakeholder data access
-- Stored and queried flexible document data in Amazon DynamoDB, leveraging its serverless NoSQL model for high-throughput, low-latency reads across research modules
-- Set up and maintained a CI/CD pipeline using GitHub Actions, automating build, test, and deployment stages to streamline releases and reduce manual overhead
-- Participated in Agile/Scrum ceremonies including sprint planning, daily standups, and retrospectives, tracking tasks and progress in Jira as part of a 5-person development team
-- Shipped a nationally distributed digital exhibit platform now serving museum partners across the United States
-
-`Python · FastAPI · Pydantic · Amazon RDS · DynamoDB · GitHub Actions · Jira`
+`k6 · Playwright · Cucumber · TypeScript · Docker · Grafana · InfluxDB · Keycloak · Claude Code (MCP)`
 
 ---
 
 ## 🚀 Projects
 
-#### 🌌 Interstellar | *Developer Intelligence Platform (Y Combinator)*
+### 🏃 ClubChat &nbsp;|&nbsp; *Team Coordination App for Sports Clubs · Shipped & in daily use*
+
+A full-stack mobile app that **100+ member clubs now use to run everything they used to juggle in a group chat**: workout plans, race sign-ups, rosters, and a shared calendar.
+
+- **Shipped a full-stack app** (iOS, Android, and web from one Expo codebase) that turns the messy club group chat into a real product, with every workout, race, and roster becoming a permissioned object with its own history.
+- **Real-time backend** on Fastify + Postgres + Redis + WebSockets: a durable per-channel message log with gapless sequence numbers that keeps every device in sync and never loses or double-posts a message.
+- **Push notifications suppressed by read cursor**, not socket liveness, so members are only pinged for messages they genuinely haven't seen yet.
+- **Built solo, spec to store:** 116 REST routes, a 39-table schema, and 631 automated tests running against real Postgres/Redis via Testcontainers.
+
+`TypeScript · Node 24 · Fastify · Postgres 17 · Redis · WebSockets · React Native / Expo · Drizzle · S3 · APNs/FCM`
+
+**Repo:** [github.com/parks3131/ClubChat-Remastered](https://github.com/parks3131/ClubChat-Remastered)
+
+---
+
+### 🌌 Interstellar &nbsp;|&nbsp; *Developer Intelligence Platform (Y Combinator)*
+
 Building a unified intelligence layer to detect drift between what was scoped and what is actually being built.
 
 | Focus Area | Engineering Impact |
 | :--- | :--- |
-| **The Core Engine** | Holds simultaneous context pictures (Intent vs. Reality) across Jira, Slack, Figma, & GitHub to surface misalignments in real-time. |
+| **The Core Engine** | Holds simultaneous context pictures (Intent vs. Reality) across Jira, Slack, Figma, & GitHub to surface misalignments in real time. |
 | **Contextual Guardrails** | Replaced noisy alerts with scoped, artifact-linked notifications when code execution strays from the spec boundary. |
 | **AI Agent Ingestion** | Synthesizes codebase context and constraints into pristine, agent-executable specification files. |
-| **System Architecture** | Built for both vendor-backed MCP deployment (Glean/Onyx) and full-stack semantic graph connectors. |
+| **System Architecture** | Built for both vendor-backed MCP deployment (Glean/Onyx) and full-stack semantic-graph connectors. |
 
-`Python · LLM Reasoning · MCP · Semantic Graph · Jira/Slack/GitHub/Figma`
+`Python · LLM Reasoning · MCP · Semantic Graph · Jira / Slack / GitHub / Figma`
+
+**Repo:** [github.com/parks3131/Interstellar](https://github.com/parks3131/Interstellar)
 
 ---
 
+### 💬 Parks Portfolio AI Chat &nbsp;|&nbsp; *RAG-Powered Assistant with Guardrails* &nbsp;·&nbsp; Jul 2026
 
-**💬 Parks Portfolio AI Chat — RAG-Powered Assistant with Guardrails** | Jul 2026
-- Replaced a static system prompt with a retrieval pipeline: embedded a content corpus using OpenAI `text-embedding-3-small` into **Neon Postgres (pgvector, HNSW cosine index)**, retrieving top-k chunks per query to ground every reply
-- Built an idempotent reindex script (`scripts/reindex.ts`) that embeds, upserts by ID, and prunes stale vectors — keeping the vector store reproducible from a single JSON corpus file
-- Implemented input/output guardrails (regex-based jailbreak & prompt-leak detection, message-length caps) and **Upstash Redis** sliding-window rate limiting to protect the public chat API from abuse and prompt injection
-- Kept the LLM provider swappable via **OpenRouter**'s OpenAI-compatible API, isolating retrieval, guardrail, and generation logic into independent modules
+- Replaced a static system prompt with a retrieval pipeline: embedded a content corpus using OpenAI `text-embedding-3-small` into **Neon Postgres (pgvector, HNSW cosine index)**, retrieving top-k chunks per query to ground every reply.
+- Built an idempotent reindex script that embeds, upserts by ID, and prunes stale vectors, keeping the vector store reproducible from a single JSON corpus file.
+- Implemented **input/output guardrails** (regex-based jailbreak & prompt-leak detection, message-length caps) and **Upstash Redis** sliding-window rate limiting to protect the public chat API from abuse and prompt injection.
+- Kept the LLM provider swappable via **OpenRouter**, isolating retrieval, guardrail, and generation logic into independent modules.
 
 `Next.js · TypeScript · OpenAI Embeddings · Neon (pgvector) · Upstash Redis · OpenRouter`
 
----
-
-**🏆 Runner-up — MICASA UX Hackathon** | May 2025
-- Redesigned full guest onboarding for MICASA (third spaces for artists); built lo-fi → hi-fi in Figma with invite-code entry, deferred signup & dashboard-first nav
+**Live:** [parkstechusa.com](https://www.parkstechusa.com/)
 
 ---
 
-**🏡 B-Roommates Housing Portal — ACM Project** | Oct 2024 – Apr 2025
-- Built Tinder-style roommate matching platform (React + MERN) with auth, preference filtering & messaging; UX-tested with 10+ users
+### 📰 Parks's News &nbsp;|&nbsp; *Autonomous AI News Aggregation & Newsletter*
+
+- Shipped an **end-to-end AI news platform** (a real-time web app plus an autonomous daily email newsletter) aggregating **70+ sources** (RSS, Reddit, Hacker News, arXiv, NewsAPI) and using LLM agents to read, rank, and summarize with zero manual curation.
+- Designed an agentic tool-call loop that scores articles by impact, novelty, and recency, streaming ranked results live to the UI via Server-Sent Events instead of a blocking wait.
+- Ran it as a **serverless, self-healing pipeline** (GitHub Actions cron, no server to maintain) with graceful fallbacks at every failure point; batched LLM calls and 15-minute caching cut multi-source fetch time from ~15s to ~3s.
+
+`Next.js · TypeScript · Python · OpenRouter · LangChain · GitHub Actions`
+
+**Live:** [parks-s-news.vercel.app](https://parks-s-news.vercel.app/) &nbsp;·&nbsp; **Newsletter:** [github.com/parks3131/parks-news-letter](https://github.com/parks3131/parks-news-letter)
+
+---
+
+### 🏡 B-Roommates Housing Portal &nbsp;|&nbsp; *ACM Project* &nbsp;·&nbsp; Oct 2024 – Apr 2025
+
+- Built a Tinder-style roommate-matching platform (React + MERN) with auth, preference filtering, and messaging; UX-tested with 10+ users.
 
 `React · Node.js · Express · MongoDB · Docker`
 
 ---
 
-**⚛️ Quantum Computing Research — Prof. Yiming Zheng** | Jan 2025 – May 2026
-- Researching quantum error correction & algorithm optimization using Qiskit; preparing for conference submission
+### 🏆 MICASA UX Hackathon &nbsp;|&nbsp; *Runner-up* &nbsp;·&nbsp; May 2025
+
+- Redesigned full guest onboarding for MICASA (third spaces for artists); built lo-fi → hi-fi in Figma with invite-code entry, deferred signup, and dashboard-first navigation.
 
 ---
 
-**🚲 NYC CitiBike Data Analysis**
-- Processed millions of ride records to surface peak demand, seasonal trends & station utilization; built Tableau + Matplotlib dashboards for station optimization insights
+### ⚛️ Quantum Computing Research &nbsp;|&nbsp; *Prof. Yiming Zheng* &nbsp;·&nbsp; Jan 2025 – May 2026
+
+- Researching quantum error correction and algorithm optimization using Qiskit; preparing for conference submission.
+
+---
+
+### 🚲 NYC CitiBike Data Analysis
+
+- Processed millions of ride records to surface peak demand, seasonal trends, and station utilization; built Tableau + Matplotlib dashboards for station-optimization insights.
 
 `Python · Pandas · SQL · Tableau`
 
@@ -117,7 +158,7 @@ Building a unified intelligence layer to detect drift between what was scoped an
 
 ## 🌱 Leadership
 
-- 👨‍🏫 **Course Assistant — DSA** | Binghamton | Jan 2025 – Present — problem design, debugging support, lab facilitation
-- 💻 **ACM Member** | Binghamton | Oct 2024 – Present — weekly tech events, competitive coding
-- 🌍 **Google DSC Core Member** | VIT Chennai | Aug 2022 – Jul 2024 — organized hackathons incl. 72-hr zonal event with **1,500+ participants**
-- 🎤 **Toastmasters VPP** | VIT Chennai | Nov 2023 – Aug 2024 — guided members across speech pathways, ran 30+ meets
+- 👨‍🏫 **Course Assistant · DSA** &nbsp;|&nbsp; Binghamton &nbsp;|&nbsp; Jan 2025 – Present &nbsp;·&nbsp; problem design, debugging support, lab facilitation
+- 💻 **ACM Member** &nbsp;|&nbsp; Binghamton &nbsp;|&nbsp; Oct 2024 – Present &nbsp;·&nbsp; weekly tech events, competitive coding
+- 🌍 **Google DSC Core Member** &nbsp;|&nbsp; VIT Chennai &nbsp;|&nbsp; Aug 2022 – Jul 2024 &nbsp;·&nbsp; organized hackathons incl. a 72-hr zonal event with **1,500+ participants**
+- 🎤 **Toastmasters VPP** &nbsp;|&nbsp; VIT Chennai &nbsp;|&nbsp; Nov 2023 – Aug 2024 &nbsp;·&nbsp; guided members across speech pathways, ran 30+ meets
