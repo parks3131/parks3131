@@ -19,7 +19,7 @@
 
 ## 🧭 Summary
 
-Software Engineer focused on QA, evals, and AI-powered products built and shipped end to end. At **Acarin Inc**, built a real-time observability and load-testing pipeline (k6, Docker, InfluxDB, Grafana) simulating **20,000 concurrent users** and isolating bottlenecks across auth, LLM, and rendering layers for an AI HR platform **shipped to the US Army**, and replaced manual regression testing with a Playwright/Cucumber automation suite. Independently designed and shipped **full-stack products in real use**: **ClubChat**, a team-coordination app now run by **100+ member university clubs**; a RAG chatbot with prompt-injection guardrails; **Interstellar**, a developer-intelligence platform detecting drift between planned and shipped code; and a fully autonomous AI news pipeline. Works fluently with modern AI dev tooling (Claude Code, Cursor, LangChain, MCP), with strong CS fundamentals and a consistent record of **owning projects from idea to production, not just closing tickets**.
+Software Engineer focused on QA, evals, and AI-powered products built and shipped end to end. Currently a **Software Engineering Intern at QuickSlot Health**, working directly with the CTO on a **HIPAA-compliant clinical documentation platform** for private-practice physicians. Previously at **Acarin Inc**, built a real-time observability and load-testing pipeline (k6, Docker, InfluxDB, Grafana) simulating **20,000 concurrent users** and isolating bottlenecks across auth, LLM, and rendering layers for an AI HR platform **shipped to the US Army**, and replaced manual regression testing with a Playwright/Cucumber automation suite. Independently designed and shipped **full-stack products in real use**: **ClubChat**, a team-coordination app now run by **100+ member university clubs**; a RAG chatbot with prompt-injection guardrails; **Interstellar**, a developer-intelligence platform detecting drift between planned and shipped code; and a fully autonomous AI news pipeline. Works fluently with modern AI dev tooling (Claude Code, Cursor, LangChain, MCP), with strong CS fundamentals and a consistent record of **owning projects from idea to production, not just closing tickets**.
 
 ---
 
@@ -54,7 +54,21 @@ Software Engineer focused on QA, evals, and AI-powered products built and shippe
 
 ## 💼 Professional Experience
 
-### Acarin Inc. &nbsp;|&nbsp; Software Engineer (QA & Evals) &nbsp;|&nbsp; Baltimore, MD &nbsp;|&nbsp; Jan 2025 – Present
+### QuickSlot Health &nbsp;|&nbsp; Software Engineering Intern &nbsp;|&nbsp; New York, NY (Remote) &nbsp;|&nbsp; Sep 2026 – Present
+
+Early-stage healthcare startup building a **HIPAA-compliant clinical documentation platform** that cuts administrative work for private-practice physicians, so doctors spend less time on paperwork and more time with patients. Working directly with the CTO on a small founding team.
+
+- Collaborate directly with the CTO to build and ship features for the platform, which runs on AWS and connects to EMR systems through HL7 and FHIR.
+- Investigate and resolve bugs reported through **real physician feedback** by reproducing issues, tracing root causes, and verifying fixes before release.
+- Write unit, integration, and functional tests to validate features against acceptance criteria and performance benchmarks.
+- Follow a production Git workflow (feature branches, pull requests, peer code review) and review teammates' code with constructive feedback.
+- Handle protected health information under **HIPAA privacy and security policies** in a fast-moving startup environment.
+
+`AWS · HL7 · FHIR · Git · GitHub`
+
+---
+
+### Acarin Inc. &nbsp;|&nbsp; Software Engineer (QA & Evals) &nbsp;|&nbsp; Baltimore, MD &nbsp;|&nbsp; Jan 2026 – Aug 2026
 
 Owned quality, evals, and observability for **Mission Mind HR Worker**, an AI HR platform **shipped to the US Army**, and took it from manual testing to a fully automated, load-verified release pipeline.
 
@@ -158,7 +172,7 @@ Building a unified intelligence layer to detect drift between what was scoped an
 
 ## 🌱 Leadership
 
-- 👨‍🏫 **Course Assistant · DSA** &nbsp;|&nbsp; Binghamton &nbsp;|&nbsp; Jan 2025 – Present &nbsp;·&nbsp; problem design, debugging support, lab facilitation
+- 👨‍🏫 **Course Assistant · DSA** &nbsp;|&nbsp; Binghamton &nbsp;|&nbsp; Jan 2025 – May 2026 &nbsp;·&nbsp; problem design, debugging support, lab facilitation
 - 💻 **ACM Member** &nbsp;|&nbsp; Binghamton &nbsp;|&nbsp; Oct 2024 – Present &nbsp;·&nbsp; weekly tech events, competitive coding
 - 🌍 **Google DSC Core Member** &nbsp;|&nbsp; VIT Chennai &nbsp;|&nbsp; Aug 2022 – Jul 2024 &nbsp;·&nbsp; organized hackathons incl. a 72-hr zonal event with **1,500+ participants**
 - 🎤 **Toastmasters VPP** &nbsp;|&nbsp; VIT Chennai &nbsp;|&nbsp; Nov 2023 – Aug 2024 &nbsp;·&nbsp; guided members across speech pathways, ran 30+ meets
