@@ -162,11 +162,12 @@ Building a unified intelligence layer to detect drift between what was scoped an
 
 ---
 
-### 🚲 NYC CitiBike Data Analysis
+### 🚲 CitiBike Data Analysis & ETL Pipeline &nbsp;·&nbsp; Jan 2025 – Feb 2025
 
-- Processed millions of ride records to surface peak demand, seasonal trends, and station utilization; built Tableau + Matplotlib dashboards for station-optimization insights.
+- Built an end-to-end ETL workflow to clean and transform city-scale trip data, with automated validation checks that caught inconsistent records before any modeling.
+- Built Databricks dashboards and automated reports surfacing peak demand and usage trends.
 
-`Python · Pandas · SQL · Tableau`
+`Python · SQL · PySpark · Databricks`
 
 ---
 
